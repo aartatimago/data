@@ -1,7 +1,7 @@
 {
-	"image": "images/photo.jpg",
+	"image": "https://cdn.rawgit.com/aartatimago/data/39d23200cd88c188928e908d7ce82dae634d88bc/images/Gideon.jpg",
 	"name": "Test",
-	"description": "\n\t<strong>Tardar Sauce</strong> (born April 4, 2012), commonly known as <strong>Grumpy Cat</strong>, is a cat Internet and media personality and actress.\n\tShe is known for her permanently \"grumpy\" facial appearance, which is caused by an <a href=\"https://en.wikipedia.org/wiki/Malocclusion\" title=\"Malocclusion\">underbite</a> and <a href=\"https://en.wikipedia.org/wiki/Dwarf_cat\" title=\"Dwarf cat\">feline dwarfism</a>.\n",
+	"description": "<strong>Whatever</strong>",
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat"
